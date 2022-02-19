@@ -1,6 +1,6 @@
 ## About
 
-This is an example of Laravel app for simple domain whois watcher telegram bot, that can send remainders about domain expiration.
+This is an example of Laravel app for simple domain whois lookup telegram bot, that can send remainders about domain expiration.
 
 # docker-compose-laravel
 A pretty simplified Docker Compose workflow that sets up a LEMP network of containers for local Laravel development. You can view the full article that inspired this repo [here](https://dev.to/aschmelyun/the-beauty-of-docker-for-local-laravel-development-13c0).
